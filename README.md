@@ -1,0 +1,2 @@
+# MyDailyJournal
+React Native App
