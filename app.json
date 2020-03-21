@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Tab Navigation Template",
+    "slug": "MyDailyJournal",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bacon.expo.googlesignin",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.262764847147-p7rq8a48k2aocrli5fg8aljl4g84lsvd"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.bacon.expo.googlesignin",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
