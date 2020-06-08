@@ -1477,11 +1477,6 @@
     wcwidth "^1.0.1"
     ws "^1.1.0"
 
-"@react-native-community/google-signin@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/google-signin/-/google-signin-4.0.0.tgz#b839a310ad65f3647b4ecbd75b5a8460700d4185"
-  integrity sha512-XC7Gi9y7+zdWrjusiuiEHBHcqBYCXezBl8OPXrPWhI+ocYmUaYXk1d5OMrb6UFMQe6M7/0HtCIEU5mEjxirqzw==
-
 "@react-native-community/masked-view@0.1.5":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.5.tgz#25421be6cd943a4b1660b62cfbcd45be8891462c"
@@ -7599,9 +7594,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3:
   version "1.0.5"
